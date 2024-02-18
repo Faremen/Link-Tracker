@@ -1,4 +1,5 @@
 app:
+  telegram-token: non
   scheduler:
     enable: true
     interval: 10s
